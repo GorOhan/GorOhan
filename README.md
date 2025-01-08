@@ -33,9 +33,6 @@
     <h2>📂 Projects</h2>
     <ul>
         <li>
-            📂 <strong>Car Garage App</strong>: A comprehensive app for managing multiple vehicles, featuring a seamless user experience and robust data handling.
-        </li>
-        <li>
             📘 <strong>Educational App for Armenian Community</strong>: A cross-platform solution for engaging and educating users, built using Kotlin Multiplatform.
         </li>
         <li>
