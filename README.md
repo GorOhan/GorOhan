@@ -27,7 +27,7 @@
     <ul>
         <li>🚀 Published multiple apps on the Google Play Store, gaining thousands of downloads and positive reviews.</li>
         <li>📦 Experience with integrating third-party SDKs like Tinkoff and implementing in-app subscriptions.</li>
-        <li>🛡️ Built features for apps managing user data across screens, including multi-vehicle garages and user profiles.</li>
+        <li>🛡️ Built features for apps managing user data across screens</li>
         <li>🔄 Familiar with advanced state management using StateFlow and ViewModel integrations.</li>
     </ul>
     <h2>📂 Projects</h2>
