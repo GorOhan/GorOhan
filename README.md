@@ -15,7 +15,7 @@
 <h2>🔧 Skills & Expertise</h2>
     <ul>
         <li>💻 <strong>Programming Languages:</strong> Kotlin, Java</li>
-        <li>📱 <strong>Android Development:</strong> Jetpack Compose, MVVM, LiveData, Coroutines, Flow</li>
+        <li>📱 <strong>Android Development:</strong> Jetpack Compose, MVVM, MVI, Coroutines</li>
         <li>🌐 <strong>Multiplatform Development:</strong> Kotlin Multiplatform</li>
         <li>🎨 <strong>UI/UX:</strong> Material Design, Custom Views, Animations</li>
         <li>🛠️ <strong>Tools:</strong> Android Studio, Gradle, Git, Firebase</li>
