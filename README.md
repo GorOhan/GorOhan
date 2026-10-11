@@ -2,7 +2,7 @@
 <body>
     <h1 align="center">👋 Hi, I'm Gor Ohanyan</h1>
     <p align="center">
-        <strong>Android Developer | 4+ Years of Experience</strong>
+        <strong>Android Developer | 5+ Years of Experience</strong>
     </p>
 
  <p align="center">
